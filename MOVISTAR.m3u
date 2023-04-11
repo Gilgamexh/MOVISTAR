@@ -1,0 +1,293 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ESP-1: LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="MOVISTAR",ESP-1: LA 1 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126264
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-1: TVE LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="MOVISTAR",ESP-1: TVE LA 1 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126212
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ESP-1: LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="MOVISTAR",ESP-1: LA 2
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126263
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ESP-1: ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" group-title="MOVISTAR",ESP-1: ANTENA 3 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126262
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ESP-1: CUATRO HD" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png" group-title="MOVISTAR",ESP-1: CUATRO HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126215
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ESP-1: TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="MOVISTAR",ESP-1: TELECINCO HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126260
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ESP-1: LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="MOVISTAR",ESP-1: LA SEXTA HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126216
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-1: #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="MOVISTAR",ESP-1: #0 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126168
+#EXTINF:-1 tvg-id="VamosporMovistarPlus.es" tvg-name="ESP-1: #VAMOS HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="MOVISTAR",ESP-1: #VAMOS HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126268
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-1: MoviStar ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="CINE",ESP-1: MoviStar ESTRENOS HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126220
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="ESP-1: MOVISTAR CINE CLÁSICO HD" tvg-logo="" group-title="CINE",ESP-1: MOVISTAR CINE CLÁSICO HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/143844
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESP-1: MOVISTAR ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="CINE",ESP-1: MOVISTAR ACCION HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126217
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ESP-1: MOVISTAR COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="CINE",ESP-1: MOVISTAR COMEDIA HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126183
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ESP-1: MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="CINE",ESP-1: MOVISTAR DRAMA HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126246
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ESP-1: CINE ESPANOL" tvg-logo="https://www.espanoles.ch/wp-content/uploads/2017/01/cine-espanol.png" group-title="CINE",ESP-1: CINE ESPANOL
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126249
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ESP-1: MOVISTAR Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="CINE",ESP-1: MOVISTAR Disney HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126218
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ESP-1: MOVISTAR CINE N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="CINE",ESP-1: MOVISTAR CINE N
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126219
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ESP-1: SERIES MANIA FHD" tvg-logo="https://seriesmania.com/wp-content/themes/series_mania/img/festival/share.png" group-title="MOVISTAR",ESP-1: SERIES MANIA FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126247
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ESP-1: MOVISTAR SERIE HD" tvg-logo="https://www.airnetwifi.es/wp-content/uploads/2019/03/Logo-Movistar-Series.png" group-title="MOVISTAR",ESP-1: MOVISTAR SERIE HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126184
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ESP-1: MOVISTAR SERIES MANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/1280px-Movistar_Seriesman%C3%ADa.svg.png" group-title="MOVISTAR",ESP-1: MOVISTAR SERIES MANIA HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126185
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ESP-1: A3 SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="MOVISTAR",ESP-1: A3 SERIES HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126171
+#EXTINF:-1 tvg-id="TreceTV.es" tvg-name="ESP-1: TRECE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png" group-title="MOVISTAR",ESP-1: TRECE TV
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126165
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="ESP-1: TCM HD" tvSyFyg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="CINE",ESP-1: TCM HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126230
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="ESP-1: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="CINE",ESP-1: HOLLYWOOD HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126235
+#EXTINF:-1 tvg-id="SundanceTVSpain.es" tvg-name="ESP-1: SUNDANCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sundance_Channel_HD_Logo.png" group-title="CINE",ESP-1: SUNDANCE HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126228
+#EXTINF:-1 tvg-id="ParamountChannelSpain.es" tvg-name="ESP-1: PARAMOUNT HD" tvg-logo="" group-title="CINE",ESP-1: PARAMOUNT HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/144035
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: TAQUILLA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="CINE",ESP-1: TAQUILLA 1 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126186
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: TAQUILLA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Taquilla_2.png" group-title="CINE",ESP-1: TAQUILLA 2 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126187
+#EXTINF:-1 tvg-id="" tvg-name="ESP-1: TAQUILLA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Taquilla_3.png" group-title="CINE",ESP-1: TAQUILLA 3 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126188
+#EXTINF:-1 tvg-id="" tvg-name="ESP-1: TAQUILLA 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Taquilla_4.png" group-title="CINE",ESP-1: TAQUILLA 4 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126189
+#EXTINF:-1 tvg-id="" tvg-name="ESP-1: TAQUILLA 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Taquilla_5.png" group-title="CINE",ESP-1: TAQUILLA 5 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126190
+#EXTINF:-1 tvg-id="" tvg-name="ESP-1: TAQUILLA 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Taquilla_6.png" group-title="CINE",ESP-1: TAQUILLA 6 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126191
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ESP-1: TOROS HD" tvg-logo="https://www.pngitem.com/pimgs/m/288-2887069_toro-logo-hd-png-download.png" group-title="MOVISTAR",ESP-1: TOROS HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126192
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ESP-1: FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="MOVISTAR",ESP-1: FOX NEWS
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126181
+#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="ESP-1: AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="MOVISTAR",ESP-1: AXN HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126240
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ESP-1: AXN WHITE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" group-title="MOVISTAR",ESP-1: AXN WHITE HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126241
+#EXTINF:-1 tvg-id="SyfySpain.es" tvg-name="ESP-1: SYFY HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="MOVISTAR",ESP-1: SYFY HD HEVC
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126162
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ESP-1: ENERGY" tvg-logo="https://freepngimg.com/thumb/energy/30958-4-energy-hd.png" group-title="MOVISTAR",ESP-1: ENERGY
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126257
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ESP-1: TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png" group-title="MOVISTAR",ESP-1: TNT HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126232
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ESP-1: XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="MOVISTAR",ESP-1: XTRM
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126233
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: VIAJAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="MOVISTAR",ESP-1: VIAJAR HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126234
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="ESP-1: FDF" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/fdf_circular_500_-2_8dd4.png" group-title="MOVISTAR",ESP-1: FDF
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126199
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ESP-1: NEOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1200px-Neox.svg.png" group-title="MOVISTAR",ESP-1: NEOX
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126256
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="ESP-1: TVE 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/900px-Logo_TVE-24h.svg.png" group-title="MOVISTAR",ESP-1: TVE 24H
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126193
+#EXTINF:-1 tvg-id="CanalSUR.us" tvg-name="ESP-1: CANAL SUR" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png" group-title="MOVISTAR",ESP-1: CANAL SUR
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126177
+#EXTINF:-1 tvg-id="" tvg-name="01 | DAZN LALIGA (ESP) 4K" tvg-logo="https://assets.laliga.com/assets/logos/laliga-h/laliga-h-1200x1200.png" group-title="MOVISTAR",01 | DAZN LALIGA (ESP) 4K
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140948
+#EXTINF:-1 tvg-id="MovistarDeportes1.es" tvg-name="ESP-4: MOVISTAR DEPORTE 1 FULL HD" tvg-logo="https://sport-tv-guide.live/images/stations/a364.png" group-title="MOVISTAR",ESP-4: MOVISTAR DEPORTE 1 FULL HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4339
+#EXTINF:-1 tvg-id="MovistarDeportes1.es" tvg-name="ESP-4: MOVISTAR DEPORTE 1" tvg-logo="https://sport-tv-guide.live/images/stations/a364.png" group-title="MOVISTAR",ESP-4: MOVISTAR DEPORTE 1
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4340
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="ESP-4: MOVISTAR DEPORTE 2 (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="MOVISTAR",ESP-4: MOVISTAR DEPORTE 2 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4341
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR DEPORTE 3 (Solo Eventos)" tvg-logo="https://www.kindpng.com/picc/m/349-3496512_movistar-deportes-1-logo-png-transparent-png.png" group-title="MOVISTAR",ESP-4: MOVISTAR DEPORTE 3 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4342
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="MOVISTAR",ESP-4: MOVISTAR LIGA CAMPEONES
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4320
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="ESP-4: MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="MOVISTAR",ESP-4: MOVISTAR LIGA DE CAMPEONES HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4321
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES FHD" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="MOVISTAR",ESP-4: MOVISTAR LIGA CAMPEONES FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4322
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR  GOLF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MOVISTAR",ESP-4: MOVISTAR  GOLF
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4333
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="MOVISTAR",ESP-4: MOVISTAR GOLF HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4334
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="ESP-1: MOVISTAR FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="MOVISTAR",ESP-1: MOVISTAR FORMULA 1 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126276
+#EXTINF:-1 tvg-id="" tvg-name="17 | DAZN 1" tvg-logo="" group-title="MOVISTAR",17 | DAZN 1
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140965
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-5: DAZN 2 FHD" tvg-logo="" group-title="MOVISTAR",ESP-5: DAZN 2 FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141361
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ESP-4: EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="MOVISTAR",ESP-4: EUROSPORT
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4348
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ESP-4: EUROSPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="MOVISTAR",ESP-4: EUROSPORT HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4349
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ESP-4: EUROSPORT FULL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="MOVISTAR",ESP-4: EUROSPORT FULL FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4350
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ESP-4: Eurosport  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="MOVISTAR",ESP-4: Eurosport  2
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4351
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ESP-4: MOVISTAR DEPORTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="MOVISTAR",ESP-4: MOVISTAR DEPORTE HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4336
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ESP-4: MOVISTAR DEPORTE FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="MOVISTAR",ESP-4: MOVISTAR DEPORTE FULLHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4337
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ESP-4: GOL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1200px-GolTV_logo.svg.png" group-title="MOVISTAR",ESP-4: GOL TV FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4338
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ESP-7: Teledeporte *FHD" tvg-logo="" group-title="MOVISTAR",ESP-7: Teledeporte *FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150598
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="ESP-4: MOVISTAR F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="MOVISTAR",ESP-4: MOVISTAR F1 HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4354
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: M. FORMULA 1 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="MOVISTAR",ESP-4: M. FORMULA 1 FULL HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4355
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ESP-4: MOVISTAR GOLF FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Golf/Movistar_Golf-Logo.wine.png" group-title="MOVISTAR",ESP-4: MOVISTAR GOLF FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4356
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ESP-4: TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="MOVISTAR",ESP-4: TELEDEPORTE
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4357
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR TOROS FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="MOVISTAR",ESP-4: MOVISTAR TOROS FULL HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4362
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ESP-1: IBERALIA TV" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/42/227650.png" group-title="MOVISTAR",ESP-1: IBERALIA TV
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126194
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ESP-5: REAL MADRID HD" tvg-logo="" group-title="MOVISTAR",ESP-5: REAL MADRID HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140356
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ESP-4: BARCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="MOVISTAR",ESP-4: BARCA TV
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4296
+#EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="ESP-1: NATIONAL GEO WILD HD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="MOVISTAR",ESP-1: NATIONAL GEO WILD HD HEVC
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126163
+#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="03 |  NATIONAL GEOGRAPHIC SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="MOVISTAR",03 |  NATIONAL GEOGRAPHIC SD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132575
+#EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="ESP-1: HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="MOVISTAR",ESP-1: HISTORIA
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126274
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="ESP-1: DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="MOVISTAR",ESP-1: DISCOVERY CHANNEL HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126179
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ESP-1: CANAL ODISEA" tvg-logo="https://vercanalestv1.com/logos/odisea.png" group-title="ESPAÑA PREMIUM",ESP-1: CANAL ODISEA
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126175
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-1: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="MOVISTAR",ESP-1: AMC HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126238
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ESP-1: CANAL COCINA" tvg-logo="https://www.pngitem.com/pimgs/m/80-800250_canal-cocina-hd-png-download.png" group-title="MOVISTAR",ESP-1: CANAL COCINA
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126208
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ESP-1: CANAL CASA" tvg-logo="https://tvepg.eu/img/spain/logo/canal_decasa.png" group-title="MOVISTAR",ESP-1: CANAL CASA
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126205
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ESP-1: DIVINITY HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="MOVISTAR",ESP-1: DIVINITY HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126201
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ESP-1: NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="MOVISTAR",ESP-1: NOVA
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126237
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ESP-1: BE MAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="MOVISTAR",ESP-1: BE MAD HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126243
+#EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="ESP-1: NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="MOVISTAR",ESP-1: NICKELODEON HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126225
+#EXTINF:-1 tvg-id="" tvg-name="ESP-7: Clan TVE *FHD" tvg-logo="" group-title="MOVISTAR",ESP-7: Clan TVE *FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150464
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Boing_2020.png" group-title="MOVISTAR",ESP-1: BOING
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126236
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="02 | CNN ESPAÑOL UHD" tvg-logo="" group-title="MOVISTAR",02 | CNN ESPAÑOL UHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141351
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="88 | FOX NEWS UHD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="MOVISTAR",88 | FOX NEWS UHD ®
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/133840
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ESP-1: FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="MOVISTAR",ESP-1: FOX LIFE HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126197
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-1: FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" group-title="MOVISTAR",ESP-1: FOX HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126198
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="ESP-5: LIGA TV BAR HD" tvg-logo="" group-title="DEPORTES",ESP-5: LIGA TV BAR HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126484
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR VAMOS BAR  HD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Vamos.png" group-title="DEPORTES",ESP-4: MOVISTAR VAMOS BAR  HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4305
+#EXTINF:-1 tvg-id="VamosporMovistarPlus.es" tvg-name="ESP-4: MOVISTAR VAMOS BAR  FHD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Vamos.png" group-title="DEPORTES",ESP-4: MOVISTAR VAMOS BAR  FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4306
+#EXTINF:-1 tvg-id="I321.58333.schedulesdirect.org" tvg-name="ESP-4: MOVISTAR  DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="DEPORTES",ESP-4: MOVISTAR  DEPORTE
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4335
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR DEPORTE 4 (Solo Eventos)" tvg-logo="https://www.kindpng.com/picc/m/349-3496512_movistar-deportes-1-logo-png-transparent-png.png" group-title="DEPORTES",ESP-4: MOVISTAR DEPORTE 4 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4343
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR DEPORTE 5 (Solo Eventos)" tvg-logo="https://www.kindpng.com/picc/m/349-3496512_movistar-deportes-1-logo-png-transparent-png.png" group-title="DEPORTES",ESP-4: MOVISTAR DEPORTE 5 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4344
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR DEPORTE 6 (Solo Eventos)" tvg-logo="https://www.kindpng.com/picc/m/349-3496512_movistar-deportes-1-logo-png-transparent-png.png" group-title="DEPORTES",ESP-4: MOVISTAR DEPORTE 6 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4345
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR DEPORTE 7" tvg-logo="https://www.kindpng.com/picc/m/349-3496512_movistar-deportes-1-logo-png-transparent-png.png" group-title="DEPORTES",ESP-4: MOVISTAR DEPORTE 7
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4346
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR DEPORTE 8" tvg-logo="https://www.kindpng.com/picc/m/349-3496512_movistar-deportes-1-logo-png-transparent-png.png" group-title="DEPORTES",ESP-4: MOVISTAR DEPORTE 8
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4347
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="ESP-4: MOVISTAR LALIGA 1 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LALIGA 1 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4307
+#EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="ESP-4: MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4308
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR  LALIGA 2 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR  LALIGA 2 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4309
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LA LIGA 2 FHD (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 2 FHD (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4310
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR  LA LIGA 3 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR  LA LIGA 3 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4311
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LA LIGA 4 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 4 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4312
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LA LIGA 5 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 5 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4313
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LA LIGA 6 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 6 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4314
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LA LIGA 7 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 7 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4315
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LA LIGA 10 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 10 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4316
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga_3.png" group-title="MOVISTAR",ESP-4: MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4317
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ESP-4: MOVISTAR LA LIGA 9 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 9 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4318
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ESP-4: MOVISTAR LA LIGA 8 (Solo Eventos)" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="DEPORTES",ESP-4: MOVISTAR LA LIGA 8 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4319
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones1.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4323
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 1 FULLHD (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA CAMPEONES 1 FULLHD (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4324
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA DE CAMPEONES 2" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA DE CAMPEONES 2
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4325
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 2 FULLHD (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA CAMPEONES 2 FULLHD (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4326
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 3  (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA CAMPEONES 3  (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4327
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4328
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 5 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA CAMPEONES 5 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4329
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4330
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 7 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR LIGA CAMPEONES 7 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4331
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ESP-4: MOVISTAR LIGA CAMPEONES 8 (Solo Eventos)" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="DEPORTES",ESP-4: MOVISTAR depo 8 (Solo Eventos)
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4332
+#EXTINF:-1 tvg-id="51456" tvg-name="02 | YES NETWORK " tvg-logo="" group-title="USA",02 | YES NETWORK 
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/137083
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB NETWORK HD" tvg-logo="https://en.wikipedia.org/wiki/MLB_Network#/media/File:MLBNetworkLogo.svg" group-title="USA",USA: MLB NETWORK HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140734
+#EXTINF:-1 tvg-id="BallySportsWest.us" tvg-name="USA: NBA TV HD" tvg-logo="https://en.wikipedia.org/wiki/NBA_TV#/media/File:NBA_TV.svg" group-title="USA",USA: NBA TV HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140735
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA: USA: NFL Now UHD" tvg-logo="" group-title="USA",USA: USA: NFL Now UHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/131335
+#EXTINF:-1 tvg-id="I216.32281.schedulesdirect.org" tvg-name="USA: USA: NBA TV HD" tvg-logo="" group-title="USA",USA: USA: NBA TV HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/131336
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA: BALLY SPORTS WEST HD" tvg-logo="" group-title="USA",USA: BALLY SPORTS WEST HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140782
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="USA: BALLY SPORTS HD" tvg-logo="" group-title="USA",USA: BALLY SPORTS HD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140783
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA: USA: NFL Now UHD" tvg-logo="" group-title="USA",USA: USA: NFL Now UHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/131335
+#EXTINF:-1 tvg-id="" tvg-name="01 | NFL NETWORK" tvg-logo="" group-title="USA",01 | NFL NETWORK
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155209
+#EXTINF:-1 tvg-id="" tvg-name="02 | NFL #2" tvg-logo="" group-title="USA",02 | NFL #2
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155283
+#EXTINF:-1 tvg-id="" tvg-name="USA: MOTOR VISION TV" tvg-logo="" group-title="USA",USA: MOTOR VISION TV
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155284
+#EXTINF:-1 tvg-id="" tvg-name="03 | NFL #3" tvg-logo="" group-title="USA",03 | NFL #3
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155285
+#EXTINF:-1 tvg-id="" tvg-name="01 | MLB NETWORK FHD" tvg-logo="http://assets.stickpng.com/images/584d4c0e0a44bd1070d5d495.png" group-title="USA",01 | MLB NETWORK FHD
+http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/137082
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
