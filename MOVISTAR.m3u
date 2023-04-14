@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="ESP-1: LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="MOVISTAR",ESP-1: LA 1 HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126264
@@ -16,17 +16,17 @@ http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126260
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126216
 #EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="ESP-1: #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="MOVISTAR",ESP-1: #0 HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126168
-#EXTINF:-1 tvg-id="VamosporMovistarPlus.es" tvg-name="ESP-1: #VAMOS HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="MOVISTAR",ESP-1: #VAMOS HD
+#EXTINF:-1 tvg-id="VamosporMovistarPlus.es" tvg-name="#VAMOS HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="MOVISTAR",ESP-1: #VAMOS HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126268
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ESP-1: MoviStar ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="CINE",ESP-1: MoviStar ESTRENOS HD
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="MoviStar ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="CINE",ESP-1: MoviStar ESTRENOS HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126220
-#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="ESP-1: MOVISTAR CINE CLÁSICO HD" tvg-logo="" group-title="CINE",ESP-1: MOVISTAR CINE CLÁSICO HD
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="MOVISTAR CINE CLÁSICO HD" tvg-logo="" group-title="CINE",ESP-1: MOVISTAR CINE CLÁSICO HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/143844
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ESP-1: MOVISTAR ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="CINE",ESP-1: MOVISTAR ACCION HD
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="MOVISTAR ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1280px-Movistar_Acci%C3%B3n.svg.png" group-title="CINE",ESP-1: MOVISTAR ACCION HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126217
-#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ESP-1: MOVISTAR COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="CINE",ESP-1: MOVISTAR COMEDIA HD
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="MOVISTAR COMEDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="CINE" audio-track="spa,eng",ESP-1: MOVISTAR COMEDIA HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126183
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ESP-1: MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="CINE",ESP-1: MOVISTAR DRAMA HD
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="MOVISTAR DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" group-title="CINE" audio-track="spa,eng",ESP-1: MOVISTAR DRAMA HD
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126246
 #EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ESP-1: CINE ESPANOL" tvg-logo="https://www.espanoles.ch/wp-content/uploads/2017/01/cine-espanol.png" group-title="CINE",ESP-1: CINE ESPANOL
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126249
